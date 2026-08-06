@@ -73,6 +73,7 @@ print(result.summary)
 
 ``` 
 ❓ FAQ
+
 Q: Is this compatible with Claude Code?
 A: Yes, Agent Skills Collection works with Claude Code, Cursor, and any CLI-based agent.
 
