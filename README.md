@@ -70,3 +70,16 @@ result = researcher.search(
     max_results=10
 )
 print(result.summary)
+
+``` 
+❓ FAQ
+Q: Is this compatible with Claude Code?
+A: Yes, Agent Skills Collection works with Claude Code, Cursor, and any CLI-based agent.
+
+Q: Will I get banned for using this?
+A: No. This is a legitimate development tool.
+
+📜 License
+MIT — Free to use and modify.
+
+⭐ Star this repository if you find it useful!
